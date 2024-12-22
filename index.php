@@ -70,7 +70,7 @@
             <div class="form-group">
                 <button type="submit">进入房间</button>
             </div>
-            <h3>开源 <a href="">Github</a> By Eray</h3>
+            <h3>开源 <a href="https://github.com/eraycc/chatbrowseroom">Github</a> By Eray</h3>
         </form>
     </div>
 </body>
